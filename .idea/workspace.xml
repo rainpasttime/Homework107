@@ -2,35 +2,39 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="5158ef16-a116-495a-90b7-effb2f302438" name="Default" comment="">
-      <change type="DELETED" beforePath="$PROJECT_DIR$/practices/collectionOperator/test.js" afterPath="" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/practices/collectionOperator/get_letter_interval.js" afterPath="$PROJECT_DIR$/practices/collectionOperator/get_letter_interval.js" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/practices/collectionOperator/get_letter_interval_2.js" afterPath="$PROJECT_DIR$/practices/collectionOperator/get_letter_interval_2.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/practices/collectionOperator/get_union.js" afterPath="$PROJECT_DIR$/practices/collectionOperator/get_union.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/practices/filter/choose_no_repeat_number.js" afterPath="$PROJECT_DIR$/practices/filter/choose_no_repeat_number.js" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/practices/filter/grouping_count.js" afterPath="$PROJECT_DIR$/practices/filter/grouping_count.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/practices/filter/two_collections_practice_1.js" afterPath="$PROJECT_DIR$/practices/filter/two_collections_practice_1.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/practices/filter/two_collections_practice_2.js" afterPath="$PROJECT_DIR$/practices/filter/two_collections_practice_2.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/practices/filter/two_collections_practice_3.js" afterPath="$PROJECT_DIR$/practices/filter/two_collections_practice_3.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/practices/flaten/double_dimensional_array_to_one_1.js" afterPath="$PROJECT_DIR$/practices/flaten/double_dimensional_array_to_one_1.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/practices/flaten/double_dimensional_array_to_one_2.js" afterPath="$PROJECT_DIR$/practices/flaten/double_dimensional_array_to_one_2.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/practices/map/map_to_even.js" afterPath="$PROJECT_DIR$/practices/map/map_to_even.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/practices/map/map_to_four_multiples_add_one.js" afterPath="$PROJECT_DIR$/practices/map/map_to_four_multiples_add_one.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/practices/map/map_to_three_multiples.js" afterPath="$PROJECT_DIR$/practices/map/map_to_three_multiples.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/practices/map/number_map_to_word.js" afterPath="$PROJECT_DIR$/practices/map/number_map_to_word.js" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/practices/map/number_map_to_word_over_26.js" afterPath="$PROJECT_DIR$/practices/map/number_map_to_word_over_26.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/practices/map/rank_asc.js" afterPath="$PROJECT_DIR$/practices/map/rank_asc.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/practices/map/rank_desc.js" afterPath="$PROJECT_DIR$/practices/map/rank_desc.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/practices/reduce/collect_max_number.js" afterPath="$PROJECT_DIR$/practices/reduce/collect_max_number.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/practices/reduce/collect_min_number.js" afterPath="$PROJECT_DIR$/practices/reduce/collect_min_number.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/practices/reduce/compare_collections.js" afterPath="$PROJECT_DIR$/practices/reduce/compare_collections.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/practices/reduce/compute_average.js" afterPath="$PROJECT_DIR$/practices/reduce/compute_average.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/practices/reduce/compute_chain_median.js" afterPath="$PROJECT_DIR$/practices/reduce/compute_chain_median.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/practices/reduce/compute_median.js" afterPath="$PROJECT_DIR$/practices/reduce/compute_median.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/practices/reduce/compute_sum.js" afterPath="$PROJECT_DIR$/practices/reduce/compute_sum.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/practices/reduce/find_element_first_subscript.js" afterPath="$PROJECT_DIR$/practices/reduce/find_element_first_subscript.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/practices/reduce/find_element_last_subscript.js" afterPath="$PROJECT_DIR$/practices/reduce/find_element_last_subscript.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/practices/reduce/find_first_even.js" afterPath="$PROJECT_DIR$/practices/reduce/find_first_even.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/practices/reduce/find_last_even.js" afterPath="$PROJECT_DIR$/practices/reduce/find_last_even.js" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/practices/ruduce/split_to_zero.js" afterPath="$PROJECT_DIR$/practices/ruduce/split_to_zero.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/practices/section_1/practice_1/practice.js" afterPath="$PROJECT_DIR$/practices/section_1/practice_1/practice.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/practices/section_1/practice_2/practice.js" afterPath="$PROJECT_DIR$/practices/section_1/practice_2/practice.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/practices/section_1/practice_3/practice.js" afterPath="$PROJECT_DIR$/practices/section_1/practice_3/practice.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/practices/section_1/practice_4/practice.js" afterPath="$PROJECT_DIR$/practices/section_1/practice_4/practice.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/practices/section_2/practice_1/practice.js" afterPath="$PROJECT_DIR$/practices/section_2/practice_1/practice.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/practices/section_2/practice_2/practice.js" afterPath="$PROJECT_DIR$/practices/section_2/practice_2/practice.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/practices/section_2/practice_3/practice.js" afterPath="$PROJECT_DIR$/practices/section_2/practice_3/practice.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/practices/section_3/practice_1/practice.js" afterPath="$PROJECT_DIR$/practices/section_3/practice_1/practice.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/practices/section_3/practice_2/practice.js" afterPath="$PROJECT_DIR$/practices/section_3/practice_2/practice.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/practices/section_3/practice_3/practice.js" afterPath="$PROJECT_DIR$/practices/section_3/practice_3/practice.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/practices/section_3/practice_4/practice.js" afterPath="$PROJECT_DIR$/practices/section_3/practice_4/practice.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/practices/superposition_operation/collection_operation/letter_mapping_1.js" afterPath="$PROJECT_DIR$/practices/superposition_operation/collection_operation/letter_mapping_1.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/practices/superposition_operation/collection_operation/letter_mapping_2.js" afterPath="$PROJECT_DIR$/practices/superposition_operation/collection_operation/letter_mapping_2.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/practices/superposition_operation/collection_operation/practice_1.js" afterPath="$PROJECT_DIR$/practices/superposition_operation/collection_operation/practice_1.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/practices/superposition_operation/collection_operation/practice_2.js" afterPath="$PROJECT_DIR$/practices/superposition_operation/collection_operation/practice_2.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/practices/superposition_operation/collection_operation/practice_3.js" afterPath="$PROJECT_DIR$/practices/superposition_operation/collection_operation/practice_3.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/practices/superposition_operation/interval_operation/amount_even.js" afterPath="$PROJECT_DIR$/practices/superposition_operation/interval_operation/amount_even.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/practices/superposition_operation/interval_operation/average_uneven.js" afterPath="$PROJECT_DIR$/practices/superposition_operation/interval_operation/average_uneven.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/practices/superposition_operation/interval_operation/median_to_letter.js" afterPath="$PROJECT_DIR$/practices/superposition_operation/interval_operation/median_to_letter.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/practices/superposition_operation/own_elements_operation/even_asc_odd_desc.js" afterPath="$PROJECT_DIR$/practices/superposition_operation/own_elements_operation/even_asc_odd_desc.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/practices/superposition_operation/own_elements_operation/one_add_next_multiply_three.js" afterPath="$PROJECT_DIR$/practices/superposition_operation/own_elements_operation/one_add_next_multiply_three.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/practices/superposition_operation/own_elements_operation/rank_by_two_large_one_small.js" afterPath="$PROJECT_DIR$/practices/superposition_operation/own_elements_operation/rank_by_two_large_one_small.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/practices/superposition_operation/own_elements_operation/subscript_is_even/calculate_average.js" afterPath="$PROJECT_DIR$/practices/superposition_operation/own_elements_operation/subscript_is_even/calculate_average.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/practices/superposition_operation/own_elements_operation/subscript_is_even/calculate_median.js" afterPath="$PROJECT_DIR$/practices/superposition_operation/own_elements_operation/subscript_is_even/calculate_median.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/practices/superposition_operation/own_elements_operation/subscript_is_even/even_group_calculate_average.js" afterPath="$PROJECT_DIR$/practices/superposition_operation/own_elements_operation/subscript_is_even/even_group_calculate_average.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/practices/superposition_operation/own_elements_operation/subscript_is_even/is_exist_element.js" afterPath="$PROJECT_DIR$/practices/superposition_operation/own_elements_operation/subscript_is_even/is_exist_element.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/practices/superposition_operation/own_elements_operation/subscript_is_even/single_element.js" afterPath="$PROJECT_DIR$/practices/superposition_operation/own_elements_operation/subscript_is_even/single_element.js" />
     </list>
     <ignored path="$PROJECT_DIR$/.tmp/" />
     <ignored path="$PROJECT_DIR$/temp/" />
@@ -43,28 +47,7 @@
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
   <component name="FileEditorManager">
-    <leaf>
-      <file leaf-file-name="get_letter_interval_2.js" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/practices/collectionOperator/get_letter_interval_2.js">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="216">
-              <caret line="12" column="17" lean-forward="true" selection-start-line="12" selection-start-column="17" selection-end-line="12" selection-end-column="17" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="get_letter_interval_2_spec.js" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/specs/collectionOperator/get_letter_interval_2_spec.js">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="0">
-              <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-    </leaf>
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300" />
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
@@ -72,19 +55,12 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/practices/filter/grouping_count.js" />
-        <option value="$PROJECT_DIR$/practices/filter/two_collections_practice_1.js" />
-        <option value="$PROJECT_DIR$/practices/filter/two_collections_practice_2.js" />
-        <option value="$PROJECT_DIR$/practices/filter/two_collections_practice_3.js" />
-        <option value="$PROJECT_DIR$/practices/flaten/double_dimensional_array_to_one_2.js" />
-        <option value="$PROJECT_DIR$/practices/flaten/double_dimensional_array_to_one_1.js" />
         <option value="$PROJECT_DIR$/practices/map/map_to_even.js" />
         <option value="$PROJECT_DIR$/practices/map/map_to_four_multiples_add_one.js" />
         <option value="$PROJECT_DIR$/practices/map/map_to_three_multiples.js" />
         <option value="$PROJECT_DIR$/practices/map/number_map_to_word.js" />
         <option value="$PROJECT_DIR$/practices/collectionOperator/get_union.js" />
         <option value="$PROJECT_DIR$/practices/filter/choose_no_repeat_number.js" />
-        <option value="$PROJECT_DIR$/practices/map/number_map_to_word_over_26.js" />
         <option value="$PROJECT_DIR$/practices/map/rank_asc.js" />
         <option value="$PROJECT_DIR$/practices/map/rank_desc.js" />
         <option value="$PROJECT_DIR$/practices/reduce/collect_max_number.js" />
@@ -98,8 +74,38 @@
         <option value="$PROJECT_DIR$/practices/reduce/find_element_last_subscript.js" />
         <option value="$PROJECT_DIR$/practices/reduce/find_first_even.js" />
         <option value="$PROJECT_DIR$/practices/reduce/find_last_even.js" />
-        <option value="$PROJECT_DIR$/practices/ruduce/split_to_zero.js" />
         <option value="$PROJECT_DIR$/practices/collectionOperator/get_letter_interval_2.js" />
+        <option value="$PROJECT_DIR$/practices/collectionOperator/get_letter_interval.js" />
+        <option value="$PROJECT_DIR$/practices/map/number_map_to_word_over_26.js" />
+        <option value="$PROJECT_DIR$/practices/ruduce/split_to_zero.js" />
+        <option value="$PROJECT_DIR$/practices/section_1/practice_1/practice.js" />
+        <option value="$PROJECT_DIR$/practices/section_1/practice_2/practice.js" />
+        <option value="$PROJECT_DIR$/practices/section_1/practice_3/practice.js" />
+        <option value="$PROJECT_DIR$/practices/section_1/practice_4/practice.js" />
+        <option value="$PROJECT_DIR$/practices/section_2/practice_1/practice.js" />
+        <option value="$PROJECT_DIR$/practices/section_2/practice_2/practice.js" />
+        <option value="$PROJECT_DIR$/practices/section_2/practice_3/practice.js" />
+        <option value="$PROJECT_DIR$/practices/section_3/practice_1/practice.js" />
+        <option value="$PROJECT_DIR$/practices/section_3/practice_2/practice.js" />
+        <option value="$PROJECT_DIR$/practices/section_3/practice_3/practice.js" />
+        <option value="$PROJECT_DIR$/practices/section_3/practice_4/practice.js" />
+        <option value="$PROJECT_DIR$/practices/superposition_operation/collection_operation/letter_mapping_1.js" />
+        <option value="$PROJECT_DIR$/practices/superposition_operation/collection_operation/letter_mapping_2.js" />
+        <option value="$PROJECT_DIR$/practices/superposition_operation/collection_operation/practice_1.js" />
+        <option value="$PROJECT_DIR$/practices/superposition_operation/collection_operation/practice_2.js" />
+        <option value="$PROJECT_DIR$/practices/superposition_operation/collection_operation/practice_3.js" />
+        <option value="$PROJECT_DIR$/practices/superposition_operation/interval_operation/amount_even.js" />
+        <option value="$PROJECT_DIR$/practices/superposition_operation/interval_operation/average_uneven.js" />
+        <option value="$PROJECT_DIR$/practices/superposition_operation/interval_operation/median_to_letter.js" />
+        <option value="$PROJECT_DIR$/practices/superposition_operation/own_elements_operation/subscript_is_even/calculate_average.js" />
+        <option value="$PROJECT_DIR$/practices/superposition_operation/own_elements_operation/subscript_is_even/calculate_median.js" />
+        <option value="$PROJECT_DIR$/practices/superposition_operation/own_elements_operation/subscript_is_even/even_group_calculate_average.js" />
+        <option value="$PROJECT_DIR$/practices/superposition_operation/own_elements_operation/subscript_is_even/is_exist_element.js" />
+        <option value="$PROJECT_DIR$/practices/superposition_operation/own_elements_operation/subscript_is_even/single_element.js" />
+        <option value="$PROJECT_DIR$/practices/superposition_operation/own_elements_operation/even_asc_odd_desc.js" />
+        <option value="$PROJECT_DIR$/practices/superposition_operation/own_elements_operation/one_add_next_multiply_three.js" />
+        <option value="$PROJECT_DIR$/practices/superposition_operation/own_elements_operation/rank_by_two_large_one_small.js" />
+        <option value="$PROJECT_DIR$/practices/filter/grouping_count.js" />
       </list>
     </option>
   </component>
@@ -138,7 +144,6 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="Scratches" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -149,35 +154,19 @@
             <path>
               <item name="Homework107" type="b2602c69:ProjectViewProjectNode" />
               <item name="Homework107" type="462c0819:PsiDirectoryNode" />
-              <item name="practices" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="Homework107" type="b2602c69:ProjectViewProjectNode" />
-              <item name="Homework107" type="462c0819:PsiDirectoryNode" />
-              <item name="practices" type="462c0819:PsiDirectoryNode" />
-              <item name="collectionOperator" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="Homework107" type="b2602c69:ProjectViewProjectNode" />
-              <item name="Homework107" type="462c0819:PsiDirectoryNode" />
               <item name="specs" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="Homework107" type="b2602c69:ProjectViewProjectNode" />
-              <item name="Homework107" type="462c0819:PsiDirectoryNode" />
-              <item name="specs" type="462c0819:PsiDirectoryNode" />
-              <item name="collectionOperator" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
         </subPane>
       </pane>
+      <pane id="Scratches" />
       <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../Homework108" />
     <property name="nodejs_interpreter_path" value="/usr/bin/node" />
   </component>
   <component name="RunDashboard">
@@ -203,25 +192,27 @@
       <option name="presentableId" value="Default" />
       <updated>1509784403171</updated>
       <workItem from="1509784405096" duration="4113000" />
-      <workItem from="1510473651384" duration="11102000" />
+      <workItem from="1510473651384" duration="13490000" />
+      <workItem from="1510568573967" duration="10076000" />
+      <workItem from="1510631913380" duration="3166000" />
+      <workItem from="1510970990762" duration="2950000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="15215000" />
+    <option name="totallyTimeSpent" value="33795000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="65" y="-4" width="1301" height="772" extended-state="6" />
-    <editor active="true" />
     <layout>
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.24921875" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.24921875" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="npm" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
       <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
-      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.32972136" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
       <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
@@ -244,387 +235,290 @@
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/practices/collectionOperator/collect_last_element.js">
+    <entry file="file://$PROJECT_DIR$/specs/superposition_operation/collection_operation/letter_mapping_1_spec.js">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/practices/collectionOperator/get_intersection.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/practices/collectionOperator/get_union.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="198">
-          <caret line="11" column="11" lean-forward="false" selection-start-line="11" selection-start-column="11" selection-end-line="11" selection-end-column="11" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/practices/collectionOperator/test.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/practices/filter/choose_even.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/practices/filter/choose_multiples_of_three.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/practices/filter/two_collections_practice_2.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="252">
-          <caret line="14" column="0" lean-forward="true" selection-start-line="14" selection-start-column="0" selection-end-line="14" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/practices/filter/two_collections_practice_3.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="162">
-          <caret line="9" column="42" lean-forward="false" selection-start-line="9" selection-start-column="42" selection-end-line="9" selection-end-column="42" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/practices/map/map_to_even.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="144">
-          <caret line="8" column="16" lean-forward="false" selection-start-line="8" selection-start-column="16" selection-end-line="8" selection-end-column="16" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/practices/map/map_to_four_multiples_add_one.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="144">
-          <caret line="8" column="16" lean-forward="false" selection-start-line="8" selection-start-column="16" selection-end-line="8" selection-end-column="16" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/practices/flaten/double_dimensional_array_to_one_1.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="108">
-          <caret line="6" column="32" lean-forward="false" selection-start-line="6" selection-start-column="32" selection-end-line="6" selection-end-column="32" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/practices/flaten/double_dimensional_array_to_one_2.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="108">
-          <caret line="6" column="32" lean-forward="false" selection-start-line="6" selection-start-column="32" selection-end-line="6" selection-end-column="32" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/practices/filter/choose_no_repeat_number.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="108">
-          <caret line="6" column="38" lean-forward="false" selection-start-line="6" selection-start-column="38" selection-end-line="6" selection-end-column="38" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/practices/map/map_to_three_multiples.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="144">
-          <caret line="8" column="16" lean-forward="false" selection-start-line="8" selection-start-column="16" selection-end-line="8" selection-end-column="16" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/practices/filter/two_collections_practice_1.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="144">
-          <caret line="8" column="39" lean-forward="true" selection-start-line="8" selection-start-column="39" selection-end-line="8" selection-end-column="39" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/practices/map/number_map_to_word.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="108">
-          <caret line="6" column="18" lean-forward="false" selection-start-line="6" selection-start-column="18" selection-end-line="6" selection-end-column="18" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/specs/map/rank_desc_spec.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/practices/map/number_map_to_word_over_26.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="162">
-          <caret line="9" column="7" lean-forward="true" selection-start-line="9" selection-start-column="7" selection-end-line="9" selection-end-column="7" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/specs/map/number_map_to_word_over_26_spec.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="180">
-          <caret line="10" column="8" lean-forward="true" selection-start-line="10" selection-start-column="8" selection-end-line="10" selection-end-column="8" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/specs/reduce/collect_max_number_spec.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="216">
-          <caret line="12" column="5" lean-forward="true" selection-start-line="12" selection-start-column="5" selection-end-line="12" selection-end-column="5" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/practices/reduce/collect_max_number.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="162">
-          <caret line="9" column="15" lean-forward="true" selection-start-line="3" selection-start-column="4" selection-end-line="9" selection-end-column="15" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/practices/reduce/collect_min_number.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="72">
-          <caret line="4" column="41" lean-forward="true" selection-start-line="4" selection-start-column="41" selection-end-line="4" selection-end-column="41" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/specs/reduce/collect_min_number_spec.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/specs/reduce/compare_collections_spec.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="144">
-          <caret line="8" column="0" lean-forward="true" selection-start-line="8" selection-start-column="0" selection-end-line="8" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/practices/reduce/compare_collections.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="198">
-          <caret line="11" column="7" lean-forward="true" selection-start-line="7" selection-start-column="5" selection-end-line="11" selection-end-column="7" />
-          <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/practices/reduce/compute_average.js">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="162">
-          <caret line="9" column="13" lean-forward="false" selection-start-line="9" selection-start-column="13" selection-end-line="9" selection-end-column="13" />
-          <folding />
+          <caret line="9" column="13" lean-forward="true" selection-start-line="3" selection-start-column="0" selection-end-line="9" selection-end-column="13" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/specs/reduce/compute_average_spec.js">
+    <entry file="file://$PROJECT_DIR$/practices/superposition_operation/collection_operation/letter_mapping_2.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="234">
-          <caret line="13" column="0" lean-forward="true" selection-start-line="13" selection-start-column="0" selection-end-line="13" selection-end-column="0" />
-          <folding />
+        <state relative-caret-position="110">
+          <caret line="37" column="5" lean-forward="true" selection-start-line="37" selection-start-column="5" selection-end-line="37" selection-end-column="5" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/specs/reduce/compute_chain_median_spec.js">
+    <entry file="file://$PROJECT_DIR$/specs/superposition_operation/collection_operation/letter_mapping_2_spec.js">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="108">
-          <caret line="6" column="22" lean-forward="false" selection-start-line="6" selection-start-column="22" selection-end-line="6" selection-end-column="22" />
-          <folding />
+          <caret line="6" column="38" lean-forward="false" selection-start-line="6" selection-start-column="38" selection-end-line="6" selection-end-column="38" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/practices/reduce/compute_chain_median.js">
+    <entry file="file://$PROJECT_DIR$/specs/superposition_operation/collection_operation/practice_1_spec.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="54">
+          <caret line="3" column="0" lean-forward="true" selection-start-line="3" selection-start-column="0" selection-end-line="3" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/practices/superposition_operation/collection_operation/practice_1.js">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="198">
-          <caret line="39" column="8" lean-forward="true" selection-start-line="39" selection-start-column="8" selection-end-line="39" selection-end-column="8" />
-          <folding />
+          <caret line="11" column="15" lean-forward="true" selection-start-line="3" selection-start-column="0" selection-end-line="11" selection-end-column="15" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/practices/map/rank_asc.js">
+    <entry file="file://$PROJECT_DIR$/practices/superposition_operation/collection_operation/practice_2.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="144">
-          <caret line="8" column="33" lean-forward="true" selection-start-line="8" selection-start-column="33" selection-end-line="8" selection-end-column="33" />
-          <folding />
+        <state relative-caret-position="270">
+          <caret line="15" column="0" lean-forward="true" selection-start-line="15" selection-start-column="0" selection-end-line="15" selection-end-column="0" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/specs/reduce/compute_sum_spec.js">
+    <entry file="file://$PROJECT_DIR$/specs/superposition_operation/collection_operation/practice_2_spec.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="198">
-          <caret line="11" column="31" lean-forward="true" selection-start-line="11" selection-start-column="31" selection-end-line="11" selection-end-column="31" />
-          <folding />
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/practices/reduce/compute_sum.js">
+    <entry file="file://$PROJECT_DIR$/practices/map/number_map_to_word_over_26.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="144">
-          <caret line="8" column="13" lean-forward="false" selection-start-line="8" selection-start-column="13" selection-end-line="8" selection-end-column="13" />
-          <folding />
+        <state relative-caret-position="630">
+          <caret line="35" column="21" lean-forward="true" selection-start-line="35" selection-start-column="21" selection-end-line="35" selection-end-column="21" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/specs/map/rank_asc_spec.js">
+    <entry file="file://$PROJECT_DIR$/practices/superposition_operation/collection_operation/practice_3.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="162">
-          <caret line="9" column="41" lean-forward="true" selection-start-line="9" selection-start-column="41" selection-end-line="9" selection-end-column="41" />
-          <folding />
+        <state relative-caret-position="252">
+          <caret line="14" column="1" lean-forward="true" selection-start-line="14" selection-start-column="1" selection-end-line="14" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/specs/superposition_operation/interval_operation/amount_even_spec.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/practices/superposition_operation/interval_operation/amount_even.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="90">
+          <caret line="5" column="5" lean-forward="true" selection-start-line="5" selection-start-column="5" selection-end-line="5" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/practices/superposition_operation/interval_operation/average_uneven.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="252">
+          <caret line="14" column="15" lean-forward="false" selection-start-line="14" selection-start-column="15" selection-end-line="14" selection-end-column="15" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/specs/superposition_operation/interval_operation/average_uneven_spec.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="126">
+          <caret line="7" column="0" lean-forward="true" selection-start-line="7" selection-start-column="0" selection-end-line="7" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/specs/superposition_operation/collection_operation/practice_3_spec.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/specs/reduce/compute_median_spec.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="234">
-          <caret line="13" column="5" lean-forward="true" selection-start-line="13" selection-start-column="5" selection-end-line="13" selection-end-column="5" />
-          <folding />
+        <state relative-caret-position="432">
+          <caret line="24" column="0" lean-forward="false" selection-start-line="24" selection-start-column="0" selection-end-line="25" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/practices/collectionOperator/get_letter_interval_2.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="278">
+          <caret line="53" column="17" lean-forward="true" selection-start-line="12" selection-start-column="12" selection-end-line="53" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/practices/superposition_operation/interval_operation/median_to_letter.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="164">
+          <caret line="69" column="32" lean-forward="true" selection-start-line="69" selection-start-column="32" selection-end-line="69" selection-end-column="32" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/specs/superposition_operation/interval_operation/median_to_letter_spec.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/specs/superposition_operation/own_elements_operation/subscript_is_even/calculate_average_spec.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/practices/superposition_operation/own_elements_operation/subscript_is_even/calculate_average.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="180">
+          <caret line="10" column="9" lean-forward="true" selection-start-line="10" selection-start-column="9" selection-end-line="10" selection-end-column="9" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/practices/superposition_operation/own_elements_operation/subscript_is_even/calculate_median.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="270">
+          <caret line="15" column="30" lean-forward="true" selection-start-line="15" selection-start-column="30" selection-end-line="15" selection-end-column="30" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/specs/superposition_operation/own_elements_operation/subscript_is_even/calculate_median_spec.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="144">
+          <caret line="8" column="7" lean-forward="true" selection-start-line="8" selection-start-column="7" selection-end-line="8" selection-end-column="7" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/practices/superposition_operation/own_elements_operation/subscript_is_even/even_group_calculate_average.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="153">
+          <caret line="25" column="28" lean-forward="true" selection-start-line="25" selection-start-column="28" selection-end-line="25" selection-end-column="28" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/specs/superposition_operation/own_elements_operation/subscript_is_even/even_group_calculate_average_spec.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="72">
+          <caret line="4" column="83" lean-forward="true" selection-start-line="4" selection-start-column="80" selection-end-line="4" selection-end-column="83" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/practices/reduce/compute_median.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="108">
-          <caret line="6" column="5" lean-forward="false" selection-start-line="6" selection-start-column="5" selection-end-line="6" selection-end-column="5" />
-          <folding />
+        <state relative-caret-position="198">
+          <caret line="11" column="25" lean-forward="true" selection-start-line="3" selection-start-column="4" selection-end-line="11" selection-end-column="25" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/practices/map/rank_desc.js">
+    <entry file="file://$PROJECT_DIR$/specs/superposition_operation/own_elements_operation/subscript_is_even/is_exist_element_spec.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="54">
-          <caret line="3" column="5" lean-forward="true" selection-start-line="3" selection-start-column="5" selection-end-line="3" selection-end-column="5" />
-          <folding />
+        <state relative-caret-position="180">
+          <caret line="10" column="0" lean-forward="true" selection-start-line="10" selection-start-column="0" selection-end-line="10" selection-end-column="0" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/practices/reduce/find_element_first_subscript.js">
+    <entry file="file://$PROJECT_DIR$/practices/superposition_operation/own_elements_operation/subscript_is_even/is_exist_element.js">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="36">
-          <caret line="2" column="30" lean-forward="false" selection-start-line="2" selection-start-column="30" selection-end-line="2" selection-end-column="30" />
-          <folding />
+          <caret line="2" column="16" lean-forward="false" selection-start-line="2" selection-start-column="16" selection-end-line="2" selection-end-column="16" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/specs/reduce/find_element_first_subscript_spec.js">
+    <entry file="file://$PROJECT_DIR$/practices/superposition_operation/own_elements_operation/subscript_is_even/single_element.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="146">
+          <caret line="12" column="4" lean-forward="false" selection-start-line="12" selection-start-column="4" selection-end-line="12" selection-end-column="4" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/specs/superposition_operation/own_elements_operation/subscript_is_even/single_element_spec.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="90">
+          <caret line="5" column="53" lean-forward="true" selection-start-line="5" selection-start-column="52" selection-end-line="5" selection-end-column="53" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/specs/superposition_operation/own_elements_operation/even_asc_odd_desc_spec.js">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="126">
-          <caret line="7" column="18" lean-forward="true" selection-start-line="7" selection-start-column="18" selection-end-line="7" selection-end-column="18" />
-          <folding />
+          <caret line="7" column="41" lean-forward="false" selection-start-line="7" selection-start-column="41" selection-end-line="7" selection-end-column="41" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/practices/reduce/find_element_last_subscript.js">
+    <entry file="file://$PROJECT_DIR$/practices/superposition_operation/own_elements_operation/one_add_next_multiply_three.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="36">
+          <caret line="2" column="19" lean-forward="true" selection-start-line="2" selection-start-column="19" selection-end-line="2" selection-end-column="19" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/specs/superposition_operation/own_elements_operation/one_add_next_multiply_three_spec.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="108">
+          <caret line="6" column="0" lean-forward="true" selection-start-line="6" selection-start-column="0" selection-end-line="6" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/practices/superposition_operation/own_elements_operation/even_asc_odd_desc.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="124">
+          <caret line="23" column="0" lean-forward="false" selection-start-line="23" selection-start-column="0" selection-end-line="45" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/practices/superposition_operation/own_elements_operation/rank_by_two_large_one_small.js">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="54">
-          <caret line="3" column="13" lean-forward="true" selection-start-line="3" selection-start-column="13" selection-end-line="3" selection-end-column="13" />
-          <folding />
+          <caret line="3" column="32" lean-forward="false" selection-start-line="3" selection-start-column="32" selection-end-line="3" selection-end-column="32" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/specs/reduce/find_element_last_subscript_spec.js">
+    <entry file="file://$PROJECT_DIR$/specs/superposition_operation/own_elements_operation/rank_by_two_large_one_small_spec.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="126">
-          <caret line="7" column="18" lean-forward="true" selection-start-line="7" selection-start-column="18" selection-end-line="7" selection-end-column="18" />
-          <folding />
+        <state relative-caret-position="198">
+          <caret line="11" column="0" lean-forward="true" selection-start-line="11" selection-start-column="0" selection-end-line="11" selection-end-column="0" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/specs/reduce/find_first_even_spec.js">
+    <entry file="file://$PROJECT_DIR$/specs/filter/choose_even_spec.js">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/practices/reduce/find_first_even.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="54">
-          <caret line="3" column="40" lean-forward="true" selection-start-line="3" selection-start-column="40" selection-end-line="3" selection-end-column="40" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/practices/reduce/find_last_even.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="198">
-          <caret line="11" column="30" lean-forward="false" selection-start-line="11" selection-start-column="30" selection-end-line="11" selection-end-column="30" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/specs/reduce/find_last_even_spec.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="198">
-          <caret line="11" column="30" lean-forward="true" selection-start-line="11" selection-start-column="30" selection-end-line="11" selection-end-column="30" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/practices/ruduce/split_to_zero.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="144">
-          <caret line="8" column="31" lean-forward="false" selection-start-line="8" selection-start-column="31" selection-end-line="8" selection-end-column="31" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/specs/ruduce/split_to_zero_spec.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="198">
-          <caret line="11" column="41" lean-forward="true" selection-start-line="11" selection-start-column="41" selection-end-line="11" selection-end-column="41" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/specs/section_1/practice_1_spec.js">
+    <entry file="file://$PROJECT_DIR$/specs/filter/two_collections_practice_1_spec.js">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/practices/collectionOperator/get_letter_interval.js">
+    <entry file="file://$PROJECT_DIR$/specs/filter/choose_no_repeat_number_spec.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="54">
-          <caret line="3" column="2" lean-forward="false" selection-start-line="3" selection-start-column="2" selection-end-line="3" selection-end-column="121" />
-          <folding />
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/specs/filter/choose_multiples_of_three_spec.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/specs/flaten/double_dimensional_array_to_one_1_spec.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
         </state>
       </provider>
     </entry>
@@ -632,7 +526,41 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/specs/collectionOperator/get_intersection_spec.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/specs/collectionOperator/get_integer_interval_2_spec.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/specs/collectionOperator/collect_last_element_spec.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/specs/collectionOperator/collect_all_even_spec.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/specs/collectionOperator/get_integer_interval_spec.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
         </state>
       </provider>
     </entry>
@@ -640,14 +568,28 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/specs/collectionOperator/get_union_spec.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/practices/filter/grouping_count.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-81">
+          <caret line="6" column="11" lean-forward="true" selection-start-line="6" selection-start-column="11" selection-end-line="6" selection-end-column="11" />
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/practices/collectionOperator/get_letter_interval_2.js">
+    <entry file="file://$PROJECT_DIR$/specs/filter/grouping_count_spec.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="216">
-          <caret line="12" column="17" lean-forward="true" selection-start-line="12" selection-start-column="17" selection-end-line="12" selection-end-column="17" />
+        <state relative-caret-position="144">
+          <caret line="8" column="21" lean-forward="true" selection-start-line="8" selection-start-column="21" selection-end-line="8" selection-end-column="21" />
           <folding />
         </state>
       </provider>

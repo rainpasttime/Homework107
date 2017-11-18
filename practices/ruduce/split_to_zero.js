@@ -11,7 +11,6 @@ function spilt_to_zero(number, interval) {
       number = parseFloat(i);
       result.push(number);
   }
-  console.log(result);
   return result;
 }
 
